@@ -1,0 +1,19 @@
+<svg width="150" height="275" viewBox="0 0 150 275" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M145 5H5V250H57.5V260H67.5V270H82.5V260H92.5V250H145V5Z" fill="white"/>
+<path d="M77.5 270H72.5V275H77.5V270Z" fill="black"/>
+<path d="M72.5 265H67.5V270H72.5V265Z" fill="black"/>
+<path d="M67.5 260H62.5V265H67.5V260Z" fill="black"/>
+<path d="M62.5 255H57.5V260H62.5V255Z" fill="black"/>
+<path d="M57.5 250H10V255H57.5V250Z" fill="black"/>
+<path d="M10 245H5V250H10V245Z" fill="black"/>
+<path d="M5 10H0V245H5V10Z" fill="black"/>
+<path d="M10 5H5V10H10V5Z" fill="black"/>
+<path d="M140 0H10V5H140V0Z" fill="black"/>
+<path d="M145 5H140V10H145V5Z" fill="black"/>
+<path d="M150 10H145V245H150V10Z" fill="black"/>
+<path d="M145 245H140V250H145V245Z" fill="black"/>
+<path d="M82.5 265H77.5V270H82.5V265Z" fill="black"/>
+<path d="M87.5 260H82.5V265H87.5V260Z" fill="black"/>
+<path d="M92.5 255H87.5V260H92.5V255Z" fill="black"/>
+<path d="M140 250H92.5V255H140V250Z" fill="black"/>
+</svg>
