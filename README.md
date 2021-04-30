@@ -1,5 +1,8 @@
-# Brand 
-Everything you need to make things look Vega-y
+<p align="center">
+  <img src="./1%20Vega%20Brand%20Basics/1A%20Logotype/Vega_Logotype_Black.png" width="400" />
+</p>
+
+<p align="center"><i>Everything you need to make things look Vega-y</i></p>
 
 ## Outline
 1. [Brand Basics](./1%20Vega%20Brand%20Basics/) contains logos, typefaces, colours that apply to everything Vega
@@ -28,3 +31,7 @@ Everything you need to make things look Vega-y
 
 # Credits
 The design work in this repository is the work of [Big Fan](https://big.fan/).
+
+<p align="right">
+  <img src="./1%20Vega%20Brand%20Basics/1G%20Hixel/Vega_Hixel_Black.png" width="100" />
+</p>
