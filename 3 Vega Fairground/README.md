@@ -30,5 +30,5 @@ The Fairground website is at [fairground.wtf](https://fairground.wtf). The sourc
 ![Backgrounds](./3D%20Zoom%20Backgrounds/Waltzer%20Zoom%20Background.jpg)
 
 <p align="right">
-  <img src="./3C%20Graphics/Pixel%20Graphics/Fish%20Bubbes.svg" width="100" />
+  <img src="./3C%20Graphics/Pixel%20Graphics/Fish%20Bubbes.svg" width="40" />
 </p>
