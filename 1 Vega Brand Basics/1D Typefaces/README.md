@@ -4,4 +4,4 @@ The two typefaces we use are not redistributable under an open source license. Y
 - [Helvetica Neue LT Std 55 Roman](https://www.linotype.com/1264118/neue-helvetica-55-roman-product.html)
 - [Neue Pixel Grotesk Regular](https://neuepixelgrotesk.com)
 
-![Overview](Our%20typefaces.jpg)
+![Overview](Our-typefaces.jpg)

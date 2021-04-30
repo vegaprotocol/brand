@@ -4,7 +4,7 @@
 |![Black](./Vega_Brand_Icon_Black.png)|
 |![White](./Vega_Brand_Icon_White.png)|
 
-If you're looking for the Logotype, you should be in [1A Logotype](../1A%20Logotype).    
+If you're looking for the Logotype, you should be in [1A Logotype](../1A-Logotype).    
 
 # Pre-rendered icons
 These are handy pre-rendered static images that you can use.

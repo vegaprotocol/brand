@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./3A%20Logotype/Fairground_Logotype_Black.png" width="400" /> 
+  <img src="./3A-Logotype/Fairground_Logotype_Black.png" width="400" /> 
 </p>
 <p align="center">
     <i>Fairground is a Vega testnet</i>
@@ -9,26 +9,26 @@
 The Fairground website is at [fairground.wtf](https://fairground.wtf). The source for that is in [vegaprotocol/fairground](https://github.com/vegaprotocol/fairground).
 
 # Logos and icons
-| [Logotype](3A%20Logotype) | [Icons](3B%20Fairground%20Icon) |
+| [Logotype](3A-Logotype) | [Icons](3B-Fairground-Icon) |
 | --- | --- |
-|![Logotype](./3A%20Logotype/Fairground_Logotype_Black.png)|![Icon](./3B%20Fairground%20Icon/Fairground_Icon_Black.png)||
+|![Logotype](./3A-Logotype/Fairground_Logotype_Black.png)|![Icon](./3B-Fairground-Icon/Fairground_Icon_Black.png)||
 
-# [Graphic elements](./3C%20Graphics/)
-| [Distorted clouds](./3C%20Graphics/Distorted%20Clouds/)  | [Fluffy clouds](./3C%20Graphics/Fluffy%20Clouds/)  | 
+# [Graphic elements](./3C-Graphics/)
+| [Distorted clouds](./3C-Graphics/Distorted-Clouds/)  | [Fluffy clouds](./3C-Graphics/Fluffy-Clouds/)  | 
 | :------------: | :------------: |
-![Distorted Clouds](./3C%20Graphics/Distorted%20Clouds/Distorted%20Clouds%201.png)|![Fluffy Clouds](./3C%20Graphics/Fluffy%20Clouds/Cloud%203.png)
+![Distorted Clouds](./3C-Graphics/Distorted-Clouds/Distorted-Clouds-1.png)|![Fluffy Clouds](./3C-Graphics/Fluffy-Clouds/Cloud-3.png)
 
-| **[Fairground ghosts](./3C%20Graphics/Ghosts%20Of%20Centralised%20Liquidity/)** | **[Pixel graphics](./3C%20Graphics/Pixel%20Graphics/)**| 
+| **[Fairground ghosts](./3C-Graphics/Ghosts-Of-Centralised-Liquidity/)** | **[Pixel graphics](./3C-Graphics/Pixel-Graphics/)**| 
 | :------------: | :------------: |
-|![Ghosts](./3C%20Graphics/Ghosts%20Of%20Centralised%20Liquidity/Carousel%20Ghost.png)|![Pixel graphics](./3C%20Graphics/Pixel%20Graphics/Carousel%20Horse%20Large.png)
+|![Ghosts](./3C-Graphics/Ghosts-Of-Centralised-Liquidity/Carousel-Ghost.png)|![Pixel graphics](./3C-Graphics/Pixel-Graphics/Carousel-Horse-Large.png)
 
 
-# [References](./Visual%20Examples:References/)
-![Example 2](./Visual%20Examples:References/Fairground%20Example%202.jpg)
+# [References](./Visual-Examples:References/)
+![Example 2](./Visual-Examples:References/Fairground-Example-2.jpg)
 
-# [Video conference backgrounds](./3D%20Zoom%20Backgrounds/)
-![Backgrounds](./3D%20Zoom%20Backgrounds/Waltzer%20Zoom%20Background.jpg)
+# [Video conference backgrounds](./3D-Zoom-Backgrounds/)
+![Backgrounds](./3D-Zoom-Backgrounds/Waltzer-Zoom-Background.jpg)
 
 <p align="right">
-  <img src="./3C%20Graphics/Pixel%20Graphics/Fish%20Bubbes.svg" width="40" />
+  <img src="./3C-Graphics/Pixel-Graphics/Fish-Bubbes.svg" width="40" />
 </p>

@@ -3,7 +3,7 @@ Distorted clouds are used as a background text for Fairground sites
 
 |   |   |
 | :------------: | :------------: |
-|![1](./Distorted%20Clouds%201.png)|![2](./Distorted%20Clouds%202.png)
-|![3](./Distorted%20Clouds%203.png)|![4](./Distorted%20Clouds%204.png)
+|![1](./Distorted-Clouds-1.png)|![2](./Distorted-Clouds-2.png)
+|![3](./Distorted-Clouds-3.png)|![4](./Distorted-Clouds-4.png)
 
-Too distorted? There are some [fluffy clouds](../Fluffy%20Clouds/) too.
+Too distorted? There are some [fluffy clouds](../Fluffy-Clouds/) too.
