@@ -25,7 +25,7 @@
 | ![Black](./1%20Vega%20Brand%20Basics/1C%20Colour%20Palette/fills/black.png)  | ![White](./1%20Vega%20Brand%20Basics/1C%20Colour%20Palette/fills/white.png)    | ![Yellow](./1%20Vega%20Brand%20Basics/1C%20Colour%20Palette/fills/yellow.png)    | ![Mint](./1%20Vega%20Brand%20Basics/1C%20Colour%20Palette/fills/mint.png)    | ![Pink](./1%20Vega%20Brand%20Basics/1C%20Colour%20Palette/fills/pink.png)    |
 
 ## Icons, Logos, Logotypes
-| [Logotype](./2%20Vega%20Console/2A%20Logotype/)  | [Icon](./2%20Vega%20Console/2B%20Brand%20Icon/)  |
+| [Logotype](./1%20Vega%20Brand%20Basics/1A%20Logotype/)  | [Icon](./1%20Vega%20Brand%20Basics/1B%20Brand%20Icon/)  |
 |:---:|:---:|
 |![Logotype](./1%20Vega%20Brand%20Basics/1A%20Logotype/Vega_Logotype_Black.png)|![Icon](./1%20Vega%20Brand%20Basics/1B%20Brand%20Icon/Vega_Brand_Icon_Black.png)
 
