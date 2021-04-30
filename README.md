@@ -19,10 +19,10 @@
 ## [Colours](./1-Vega-Brand-Basics/1C-Colour-Palette/)
 | Black  | White  | Yellow  | Mint  | Pink  |
 |:---:|:---:|:---:|:---:|:---:|
-| ![Black](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/black.png)  | ![White](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/white.png)    | ![Yellow](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/yellow.png)    | ![Mint](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/mint.png)    | ![Pink](./1-Vega-Brand-Basics/1C%20Colour%20Palette/fills/pink.png)    |
+| ![Black](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/black.png)  | ![White](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/white.png)    | ![Yellow](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/yellow.png)    | ![Mint](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/mint.png)    | ![Pink](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/pink.png)    |
 | `#00000`  | `#FFFFFF`  | `#DFFF0B`  | `#00F780`  | `#FF077F`  |
 | `rgb(0,0,0)`  | `rgb(255,255,255)`  | `rgb(223,255,11)`  | `rgb(0,246,127)`  | `rgb(255,7,127)`  |
-| ![Black](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/black.png)  | ![White](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/white.png)    | ![Yellow](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/yellow.png)    | ![Mint](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/mint.png)    | ![Pink](./1-Vega-Brand-Basics/1C%20Colour%20Palette/fills/pink.png)    |
+| ![Black](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/black.png)  | ![White](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/white.png)    | ![Yellow](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/yellow.png)    | ![Mint](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/mint.png)    | ![Pink](./1-Vega-Brand-Basics/1C-Colour-Palette/fills/pink.png)    |
 
 ## Icons, Logos, Logotypes
 | [Logotype](./1-Vega-Brand-Basics/1A-Logotype/)  | [Icon](./1-Vega-Brand-Basics/1B-Brand-Icon/)  |
