@@ -31,10 +31,10 @@
 |:---:|:---:|
 |![Logotype](./1-Vega-Brand-Basics/1A-Logotype/Vega_Logotype_Black.png)|![Icon](./1-Vega-Brand-Basics/1B-Brand-Icon/Vega_Brand_Icon_Black.png)
 
-### Icon variations
+### [Icon Variations](./1-Vega-Brand-Basics/1B-Brand-Icon/)
 
-|  | | | | |
-|:---:|:---:|:---:|:---:|:---:|
+|White on black  | Black on white | Yellow | Universe |
+|:---:|:---:|:---:|:---:|
 |![White on Black](./1-Vega-Brand-Basics/1B-Brand-Icon/Variations/wb-icon-558px.png)|![Black on White](./1-Vega-Brand-Basics/1B-Brand-Icon/Variations/bw-icon-558px.png)|![Black on Yellow](./1-Vega-Brand-Basics/1B-Brand-Icon/Variations/y-icon-558px.png)|![Universe](./1-Vega-Brand-Basics/1B-Brand-Icon/Variations/u-icon-558px.png)|
 
 More sizes are available from the [Brand Icon section](./1-Vega-Brand-Basics/1B-Brand-Icon/).
