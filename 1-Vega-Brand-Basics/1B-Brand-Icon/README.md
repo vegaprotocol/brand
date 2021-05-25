@@ -14,3 +14,4 @@ These are handy pre-rendered static images that you can use.
 |![128](./Variations/y-icon-128px.png)|![270](./Variations/y-icon-270px.png)|![558](./Variations/y-icon-558px.png)
 |![128](./Variations/bw-icon-128px.png)|![270](./Variations/bw-icon-270px.png)|![558](./Variations/bw-icon-558px.png)
 |![128](./Variations/wb-icon-128px.png)|![270](./Variations/wb-icon-270px.png)|![558](./Variations/wb-icon-558px.png)
+|![128](./Variations/u-icon-128px.png)|![270](./Variations/u-icon-270px.png)|![558](./Variations/u-icon-558px.png)
