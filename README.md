@@ -12,8 +12,8 @@
 3. [Fairground](./3-Vega-Fairground/) is a Vega Testnet
 
 
-
 # Quick reference
+
 ## [Typefaces](./1-Vega-Brand-Basics/1D-Typefaces/)
 - [Helvetica Neue LT Std 55 Roman](https://www.linotype.com/1264118/neue-helvetica-55-roman-product.html)
 - [Neue Pixel Grotesk Regular](https://neuepixelgrotesk.com)
@@ -30,6 +30,14 @@
 | [Logotype](./1-Vega-Brand-Basics/1A-Logotype/)  | [Icon](./1-Vega-Brand-Basics/1B-Brand-Icon/)  |
 |:---:|:---:|
 |![Logotype](./1-Vega-Brand-Basics/1A-Logotype/Vega_Logotype_Black.png)|![Icon](./1-Vega-Brand-Basics/1B-Brand-Icon/Vega_Brand_Icon_Black.png)
+
+### Icon variations
+
+|  | | | | |
+|:---:|:---:|:---:|:---:|:---:|
+|![White on Black](./1-Vega-Brand-Basics/1B-Brand-Icon/Variations/wb-icon-558px.png)|![Black on White](./1-Vega-Brand-Basics/1B-Brand-Icon/Variations/bw-icon-558px.png)|![Black on Yellow](./1-Vega-Brand-Basics/1B-Brand-Icon/Variations/y-icon-558px.png)|![Universe](./1-Vega-Brand-Basics/1B-Brand-Icon/Variations/u-icon-558px.png)|
+
+More sizes are available from the [Brand Icon section](./1-Vega-Brand-Basics/1B-Brand-Icon/).
 
 # Credits
 The design work in this repository is the work of [Big Fan](https://big.fan/).
