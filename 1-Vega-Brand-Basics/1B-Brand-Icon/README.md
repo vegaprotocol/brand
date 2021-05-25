@@ -11,4 +11,6 @@ These are handy pre-rendered static images that you can use.
 
 |Smaller|Bigger|Bigger still|
 |:---:|:---:|:---:|
-|![128](./Variations/v-white-on-black-128.png)|![150](./Variations/v-white-on-black-150.png)|![558](./Variations/v-white-on-black-558.png)
+|![128](./Variations/y-icon-128px.png)|![270](./Variations/y-icon-270px.png)|![558](./Variations/y-icon-558px.png)
+|![128](./Variations/bw-icon-128px.png)|![270](./Variations/bw-icon-270px.png)|![558](./Variations/bw-icon-558px.png)
+|![128](./Variations/wb-icon-128px.png)|![270](./Variations/wb-icon-270px.png)|![558](./Variations/wb-icon-558px.png)
