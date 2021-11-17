@@ -40,7 +40,8 @@
 More sizes are available from the [Brand Icon section](./1-Vega-Brand-Basics/1B-Brand-Icon/).
 
 # Credits
-The design work in this repository is the work of [Big Fan](https://big.fan/).
+- Brand assets, logos designed by [Big Fan](https://big.fan/)
+- [Alpha Lyrae](./4-Alpha-Lyrae) designed by [fontfabric](https://www.fontfabric.com)
 
 <p align="right">
   <img src="./1-Vega-Brand-Basics/1G-Hixel/Vega_Hixel_Black.png" width="100" />
