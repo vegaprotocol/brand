@@ -49,15 +49,13 @@ We include `.woff2`, `.woff`, and `.eot` files.
 1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
 2. Open the "Font Book" application.
 3. In the main menu, select File, then Add Fonts...
-4. Find the "Alpha Lyrae" folder, select the folder (or open the folder and
-   select all the files inside the folder) and press the Open button.
+4. Find the "Alpha Lyrae" font in your Downloads folder and press the Open button.
 
 ### Using Finder:
 1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
-2. Copy the "Alpha Lyrae" folder
 3. Press `cmd-shift-G` in Finder and go to: `~/Library/Fonts`
-4. Delete any existing "Alpha Lyrae" files and folders
-5. Paste the "Alpha Lyrae" folder
+4. Delete any existing "Alpha Lyrae" files
+5. Paste the font file
 
 ## Windows
 1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
