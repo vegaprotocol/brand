@@ -46,21 +46,22 @@ We include `.woff2`, `.woff`, and `.eot` files.
 ## MacOS
 
 ### Using Font Book:
-1. Open the "Font Book" application.
-2. In the main menu, select File, then Add Fonts...
-3. Find the "Alpha Lyrae" folder, select the folder (or open the folder and
+1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
+2. Open the "Font Book" application.
+3. In the main menu, select File, then Add Fonts...
+4. Find the "Alpha Lyrae" folder, select the folder (or open the folder and
    select all the files inside the folder) and press the Open button.
 
 ### Using Finder:
-1. Copy the "Alpha Lyrae" folder
-2. Press `cmd-shift-G` in Finder and go to: `~/Library/Fonts`
-3. Delete any existing "Alpha Lyrae" files and folders
-4. Paste the "Alpha Lyrae" folder
+1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
+2. Copy the "Alpha Lyrae" folder
+3. Press `cmd-shift-G` in Finder and go to: `~/Library/Fonts`
+4. Delete any existing "Alpha Lyrae" files and folders
+5. Paste the "Alpha Lyrae" folder
 
 ## Windows
-1. Open the `4A-Fonts` folder on your Desktop.
-2. Select all font files.
-3. Right-click the selected files and choose "Install for all users".
+1. Download [AlphaLyrae-Medium.ttf](./4A-Fonts/AlphaLyrae-Medium.ttf).
+2. Right-click on the font in your Download folder and choose "Install for all users".
 
 If you have a previous installation of Alpha Lyrae, you should make sure
 to remove those fonts files before installing new ones. You need to
@@ -72,16 +73,15 @@ There are many different Linux distributions and some handle font management
 differently. These instructions are for the most common Linux distributions:
 
 1. Create a folder called ".fonts" in your home directory.
-   Example: mkdir -p ~/.fonts
-2. Copy the otf files in the "Alpha Lyrae" folder into your .fonts directory
-   Example: `cp "Alpha Lyrae" /*.otf ~/.fonts/`
+   Example: `mkdir -p ~/.fonts`
+2. Copy the [AlphaLyrae-Medium.otf](./4A-Fonts/AlphaLyrae-Medium.otf) file into your `.fonts` directory
+   Example: `cp "AlphaLyrae-Medium.otf" ~/.fonts/`
 
 You may have to restart apps and/or your window server session.
 
 Again, these instructions are for the most common Linux distributuons like
 Ubuntu and might not apply to you. Refer to the documentation for your
 distribution for more details on how to manage fonts in your OS.
-
 
 ### Linux 
 Q: I installed the fonts but they don't show up
