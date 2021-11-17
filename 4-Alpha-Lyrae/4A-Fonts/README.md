@@ -3,7 +3,7 @@
 For instructions on how to install this font your operating system, or use it on the web, head over to the [Usage](../#Usage) section.
 
 | Extension | Format | Usage |
-|-----------|--------|-------|ll
+|-----------|--------|-------|
 | [.ttf](./AlphaLyrae-Medium.ttf)     | [OpenType](https://en.wikipedia.org/wiki/TrueType)       | Desktop   |
 | [.otf](./AlphaLyrae-Medium.otf)     | [OpenType](https://en.wikipedia.org/wiki/OpenType)       | Desktop |
 | [.eot](./AlphaLyrae-Medium.eot)     | [Embedded OpenType](https://en.wikipedia.org/wiki/Embedded_OpenType)       | Web   |
