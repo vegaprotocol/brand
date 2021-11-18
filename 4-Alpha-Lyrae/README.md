@@ -81,17 +81,19 @@ Again, these instructions are for the most common Linux distributuons like
 Ubuntu and might not apply to you. Refer to the documentation for your
 distribution for more details on how to manage fonts in your OS.
 
-### Linux 
-Q: I installed the fonts but they don't show up
-A: Try rebuilding the font database:
+**Q: I installed the fonts but they don't show up**
+
+**A:** Try rebuilding the font database:
    `sudo fc-cache -f -v`
    Then restart your program(s).
 
-Q: Is there a way to tell if Alpha Lyrae was actually installed?
-A: Try running: `fc-list | grep "Alpha Lyrae"`
+**Q: Is there a way to tell if Alpha Lyrae was actually installed?**
 
-Q: `~/.fonts` is an old thing. The new thing is `~/.local/share/fonts`
-A: Yes, that is true for recent distributions. These distros usually support
+**A:** Try running: `fc-list | grep "Alpha Lyrae"`
+
+**Q: `~/.fonts` is an old thing. The new thing is `~/.local/share/fonts`**
+
+**A:** Yes, that is true for recent distributions. These distros usually support
    `~/.fonts` as well making these instructions work for everyone. Yay.
 
 # License
