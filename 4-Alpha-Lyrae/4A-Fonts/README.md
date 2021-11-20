@@ -1,5 +1,9 @@
-# Alpha Lyrae downloads
- 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6678/142732640-64759cdb-cb4f-41fa-a8ad-182035a2c646.png" />
+</p>
+
+---
+
 For instructions on how to install this font your operating system, or use it on the web, head over to the [Usage](../#Usage) section.
 
 | Extension | Format | Usage |
