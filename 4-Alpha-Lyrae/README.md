@@ -105,5 +105,13 @@ distribution for more details on how to manage fonts in your OS.
 **A:** Yes, that is true for recent distributions. These distros usually support
    `~/.fonts` as well making these instructions work for everyone. Yay.
 
+--- 
+
+![multi-lyrae](https://user-images.githubusercontent.com/6678/142732686-a662004e-5be6-4bff-b043-e01d89f2ca90.png)
+
+--- 
+
 # License
 See [LICENSE.md](./LICENSE.md)
+
+
