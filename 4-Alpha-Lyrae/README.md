@@ -1,4 +1,10 @@
-# Alpha Lyrae
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/6678/142731484-c654c002-a4c6-4664-b44d-634c8bc5dbcf.png" />
+</p>
+
+---
+
+
 
 Alpha Lyrae is a typeface that personalises the innovative mindset of VEGA. 
 
@@ -6,6 +12,9 @@ It shows the cutting-edge impact on the trading process and the arising freedom 
 
 
 # TECHNOLOGY
+
+![lorem-ipsum](https://user-images.githubusercontent.com/6678/142731503-121cce41-3aec-41c6-b422-8fd28e997c00.png)
+
 
 Alpha Lyrae was created with the font editor Glyphs App and was exported directly from there. Not text editor was used to compile or build the files.
 
