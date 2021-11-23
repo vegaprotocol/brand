@@ -79,7 +79,7 @@ Once you have successfully installed the files you will need to enable it in wha
 
 ### MS Word
 1. Click on the popout button in the 'Font' section of the toolbar
-![image](https://user-images.githubusercontent.com/89918817/143014477-fb594769-93d3-4ea9-9028-c49814b6cb0e.png)
+![image](https://user-images.githubusercontent.com/89918817/143014477-fb594769-93d3-4ea9-9028-c49814b6cb0e.png = 250x)
 2. Click on Advanced
 3. Tick the box labelled 'Use Contextual Alternates' - pixellated ligatures will now be used automatically
 
