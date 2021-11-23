@@ -82,6 +82,8 @@ Once you have successfully installed the files you will need to enable it in wha
 2. Click on 'Advanced'
 3. Tick the box labelled 'Use Contextual Alternates' - pixellated ligatures will now be used automatically
 
+You can also manually switch between the sets using the Stylistic Sets menu.
+
 ### MS Powerpoint
 TBC
 
