@@ -78,9 +78,8 @@ global.
 Once you have successfully installed the files you will need to enable it in whatever Windows application you're using.
 
 ### MS Word
-1. Click on the popout button in the 'Font' section of the toolbar
-![image](https://user-images.githubusercontent.com/89918817/143014477-fb594769-93d3-4ea9-9028-c49814b6cb0e.png width = "250" height = "100")
-2. Click on Advanced
+1. Click on the popout button in the bottom right of the 'Font' section of the toolbar OR right click anywhere on the page and select 'Font'
+2. Click on 'Advanced'
 3. Tick the box labelled 'Use Contextual Alternates' - pixellated ligatures will now be used automatically
 
 ### MS Powerpoint
