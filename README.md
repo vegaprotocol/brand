@@ -15,7 +15,7 @@
 # Quick reference
 
 ## [Typefaces](./1-Vega-Brand-Basics/1D-Typefaces/)
-- [Alpha Lyrae - The Official Vega Open Source Font](https://github.com/vegaprotocol/brand/tree/main/4-Alpha-Lyrae)
+- [Alpha Lyrae - The Official Vega Open Source Font](https://github.com/vegaprotocol/alpha-lyrae)
 ### Legacy Vega Fonts
 - [Helvetica Neue LT Std 55 Roman](https://www.linotype.com/1264118/neue-helvetica-55-roman-product.html)
 - [Neue Pixel Grotesk Regular](https://neuepixelgrotesk.com)
@@ -43,7 +43,6 @@ More sizes are available from the [Brand Icon section](./1-Vega-Brand-Basics/1B-
 
 # Credits
 - Brand assets, logos designed by [Big Fan](https://big.fan/)
-- [Alpha Lyrae](./4-Alpha-Lyrae) designed by [fontfabric](https://www.fontfabric.com)
 
 <p align="right">
   <img src="./1-Vega-Brand-Basics/1G-Hixel/Vega_Hixel_Black.png" width="100" />
