@@ -15,6 +15,8 @@
 # Quick reference
 
 ## [Typefaces](./1-Vega-Brand-Basics/1D-Typefaces/)
+- [Alpha Lyrae - The Official Vega Open Source Font](https://github.com/vegaprotocol/brand/tree/main/4-Alpha-Lyrae)
+### Legacy Vega Fonts
 - [Helvetica Neue LT Std 55 Roman](https://www.linotype.com/1264118/neue-helvetica-55-roman-product.html)
 - [Neue Pixel Grotesk Regular](https://neuepixelgrotesk.com)
 
