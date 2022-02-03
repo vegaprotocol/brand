@@ -1,5 +1,3 @@
-# Eth Denver conferencing backgrounds
-
 # ETH Denver Backgrounds
 Can't make it to ETHDenver? *Join us* in spirit with these AWESOME Zoom Backgrounds.
 
