@@ -23,8 +23,8 @@ The Fairground website is at [fairground.wtf](https://fairground.wtf). The sourc
 |![Ghosts](./3C-Graphics/Ghosts-Of-Centralised-Liquidity/Carousel_Ghost.png)|![Pixel graphics](./3C-Graphics/Pixel-Graphics/Carousel_Horse_Large.png)
 
 
-# [References](./Visual-Examples:References/)
-![Example 2](./Visual-Examples:References/Fairground_Example_2.jpg)
+# [References](./Visual-Examples_References/)
+![Example 2](./Visual-Examples_References/Fairground_Example_2.jpg)
 
 # [Video conference backgrounds](./3D-Zoom-Backgrounds/)
 ![Backgrounds](./3D-Zoom-Backgrounds/Waltzer_Zoom_Background.jpg)
