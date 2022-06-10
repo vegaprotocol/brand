@@ -26,3 +26,18 @@ Can't make it to ETHDenver? *Join us* in spirit with these AWESOME Zoom Backgrou
 
 ## ETH Denver Alt
 ![ETHDenver_Zoom_Background_Alt1](https://user-images.githubusercontent.com/67317923/151793394-77a1e56d-2773-4f25-aee4-58ffc76a213d.jpg)
+
+## Free the markets Vendetta
+![freethemarketsVendetta](./freethemarketsVendetta.jpg)
+
+## Lost in river
+![lostinriver](./lostinriver.jpg)
+
+## Free the markets Graffiti
+![freethemarketsGraffiti](./freethemarketsGraffiti.jpg)
+
+## Lost in spaceeeeeeeeee
+![lostinspaceeee](./lostinspaceeee.jpg)
+
+## Vega cool
+![vegaCool](./fvegaCool.jpg)
