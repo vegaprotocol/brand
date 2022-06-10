@@ -40,4 +40,4 @@ Can't make it to ETHDenver? *Join us* in spirit with these AWESOME Zoom Backgrou
 ![lostinspaceeee](./lostinspaceeee.jpg)
 
 ## Vega cool
-![vegaCool](./fvegaCool.jpg)
+![vegaCool](./vegaCool.jpg)
