@@ -1,4 +1,4 @@
-# The ghosts of centralised liquidity 
+# The Vegabonds (formerly ghosts of centralised liquidity)
 Feel free to make your own poses and submit a pull request!
 |   |   |   |   |  |
 | :------------: | :------------: | :------------: | :------------: |    :------------: |
@@ -7,4 +7,4 @@ Feel free to make your own poses and submit a pull request!
 |   |   |   |   |  |
 |![Ghost](Panic_Ghost.svg)|![Ghost](Short-sighted_Ghost.svg)|![Ghost](Stern_Ghost.svg)|![Ghost](Voting_Ghost.svg)|![Ghost](Waving_Ghost.svg)||
 
-There are also [Fairground-specific ghosts](../../../3-Vega-Fairground/3C-Graphics/Ghosts-Of-Centralised-Liquidity/).
+There are also [Fairground-specific Vegabonds](../../../3-Vega-Fairground/3C-Graphics/Ghosts-Of-Centralised-Liquidity/).
