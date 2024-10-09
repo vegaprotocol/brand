@@ -1,5 +1,5 @@
 # Vega Console
-Console is the first user interface for Vega. You can try it out at [testnet.vega.trading](https://testnet.vega.trading). It will be open source.
+Console is the first user interface for Vega, [and it is open source](https://github.com/vegaprotocol/frontend-monorepo?tab=readme-ov-file#-applications-in-this-repo).
 
 ## Logos and icons
 | [Logotype](2A-Logotype) | [Icons](2B-Brand-Icon) |
